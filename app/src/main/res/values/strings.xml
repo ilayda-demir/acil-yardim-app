@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Acil Yardım</string>
+    <string name="title_activity_map">MapActivity</string>
+
+    <!-- 🔑 Google Maps API Key -->
+    <string name="google_maps_key" translatable="false">
+        AIzaSyBMCaldyAofk9dashAdbx2RPbmXMfOrdJQ
+    </string>
+</resources>

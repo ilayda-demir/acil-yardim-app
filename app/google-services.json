@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "986843928634",
+    "firebase_url": "https://ready-354d5-default-rtdb.firebaseio.com",
+    "project_id": "ready-354d5",
+    "storage_bucket": "ready-354d5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986843928634:android:7b8d8e266ce127210b7d03",
+        "android_client_info": {
+          "package_name": "com.example.drone_arayz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBagfsMXI58QufTTn-vUZZDkWXsnJxaGAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
